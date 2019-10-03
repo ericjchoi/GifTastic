@@ -1,0 +1,67 @@
+/* HW6 GifTastic using GIPHY */
+body {
+    font-family: fantasy
+}
+.container {
+    margin: 0 2%;
+}
+form {
+    margin-left: 70%;
+}
+h1 {
+    font-size: 3rem;
+}
+label, input,.topic_btn, #add_topic {
+    font-size: 1.1rem;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.topic_btn, #add_topic {
+    color: white;
+    background-color: #4aaaa4;
+}
+/* .mainContainer {
+    width: 700px;
+    margin: 10px auto;
+}
+#gameTitle, #timeRemaining {
+    width: 700px;
+    margin: 10px auto;
+    font-family: monospace;
+    font-size: 2.5rem;
+    background-color: orange;
+    opacity: 0.95;
+}
+
+#startBtn {
+    display: block;
+    margin: 0 auto;
+    color: white;
+    font-size: 10rem;
+    border-radius: 10px;
+    background-color: rgb(28, 148, 72);
+}
+#doneBtn {
+    display: block;
+    margin: 0 auto;
+    color: white;
+    font-size: 2rem;
+    border-radius: 5px;
+    background-color: rgb(172, 22, 67);
+}
+#reportLabel1 {
+    font-size: 3rem;
+}
+#reportLabel2 {
+    color: rgb(38, 130, 38);
+    font-size: 2rem;
+}
+#reportLabel3 {
+    color: rgb(187, 35, 35);
+    font-size: 2rem;
+}
+#reportLabel4 {
+    color: rgb(233, 96, 45);
+    font-size: 2rem;
+} */
