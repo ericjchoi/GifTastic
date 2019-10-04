@@ -11,4 +11,6 @@ Each gif will be shown with rating on top.
 
 Default status of each gif is still and will be animated upon clicking on it.
 
+Clicking on animated gif will show its still image.
+
 Each button click will preppend 10 results.
