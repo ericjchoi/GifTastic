@@ -1,6 +1,14 @@
 # GifTastic
-HW6 GifTastic using GIPHY
-Buttons works fine with duplication check.
-GIPHY api key works fine.
+HW6 GifTastic using GIPHY - General GIFs search from GIPHY (Rate: G)
 
-Working on displaying GIFs on HTML page
+This homework searches general rate G GIFs from GIPHY.com
+
+Default buttons provided are animals.
+
+Additional buttons will be added upon keyword input unless duplicated.
+
+Each gif will be shown with rating on top.
+
+Default status of each gif is still and will be animated upon clicking on it.
+
+Each button click will preppend 10 results.

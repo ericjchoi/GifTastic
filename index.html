@@ -12,24 +12,18 @@
 </head>
 
 <body background="assets/images/grass_background.jpg">
-    <div class="container">
-        <br><br>
-        <h1>Animal Search from GIPHY</h1>
+    <div class="container"><br><br>
+        <h1>General GIFs search from GIPHY (Rate: G)</h1>
+        <h3>Default buttons provided are animals</h3>
         <div id="buttons_view"></div> <!-- display buttons -->
         <form id="topic_form">
-            <label for="topic_input">Add an animal</label>
-            <br>
-            <input type="text" id="topic_input">
-            <br>
-            <!-- new animal is added -->
+            <label for="topic_input">Add a keyword</label><br>
+            <input type="text" id="topic_input"><br>
             <input id="add_topic" type="submit" value="Submit">
         </form>
-        <!-- display animal -->
+        <!-- display results -->
         <div id="topic_view"></div>
     </div>
-    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="assets/javascript/app.js"></script>
 </body>
